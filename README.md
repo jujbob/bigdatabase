@@ -1,2 +1,2 @@
 # bigdatabase
-This is a repository for corses (Bigdata and Database)
+This is a repository for courses about Bigdata and Database
